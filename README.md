@@ -11,7 +11,7 @@ Variação em valor e %
 
 O objetivo foi simular uma estrutura real de FP&A, com foco em análise gerencial e tomada de decisão.
 
-Principais insights da análise:
+                      Principais insights da análise:
 
 • Em Janeiro, houve economia de 31% vs orçamento
 
@@ -39,10 +39,12 @@ Permitindo análise mais estratégica por área e olhando num contexto geral .
 
                       
 
-Mais importante do que apenas acompanhar orçamento é:
+                        Mais importante do que apenas acompanhar orçamento é:
 
 • Entender o comportamento das despesas
+
 • Antecipar desvios com forecast
+
 • Gerar informação para decisão
 
 Controle orçamentário não é sobre cortar custos.
